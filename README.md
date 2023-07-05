@@ -33,8 +33,8 @@ Create an alarm clock. Use ONLY vanilla javascript, no libraries or frameworks a
 <br>
 
 # PROJECT DEMO
+![Alarm-Clock](https://github.com/pratiksha23-github/AlarmClock/assets/85682428/430b1bcf-5499-471a-89d1-dd2168d816eb)
 
-![Alarm-Clock](https://im2.ezgif.com/tmp/ezgif-2-af6171f312d4.gif)<br>
 
 # LINKS
 
