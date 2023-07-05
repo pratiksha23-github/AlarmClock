@@ -25,37 +25,29 @@ Create an alarm clock. Use ONLY vanilla javascript, no libraries or frameworks a
 - <b>Alarms list</b> <br>
 
   - Display a list of all the alarms set by user
- 
+
 - <b>Delete alarm</b> <br>
   - For each alarm give a delete button to delete the alarm
   - When the user deletes an alarm make sure it “does not alerts the user”
 
 <br>
 
-# PRODUCT DEMO
+# PROJECT DEMO
 
 ![Alarm-Clock](https://im2.ezgif.com/tmp/ezgif-2-af6171f312d4.gif)<br>
 
 # LINKS
 
-<a href = "https://alarmclock-js.netlify.app/"> <b>LIVE PRODUCT</b> </a>  &nbsp; <a href = "https://github.com/MaanilVerma/Alarm-Clock"> <b>CODE</b> </a> <br>
+<a href = "https://cn-alarm-clock.netlify.app/"> <b>LIVE PROJECT</b> </a> &nbsp; <a href = "https://github.com/pratiksha23-github/AlarmClock"> <b>CODE</b> </a> <br>
 
---------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+
 <br>
 <strong>Connect With Me @</strong>
 
 <p align="center">
-<a href="https://maanilverma.netlify.app"><img src="https://img.shields.io/badge/-Portfolio-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/maanilverma"><img src="https://img.shields.io/badge/-Maanil%20Verma-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:maanilv8@gmail.com"><img src="https://img.shields.io/badge/-maanilv8@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://twitter.com/MaanilV"><img src="https://img.shields.io/twitter/url?color=White&label=Maanil%20Vema&style=social&url=https%3A%2F%2Ftwitter.com%2FMaanilV"/></a>
+<a href="https://pratiksha-portfolio-website.netlify.app/"><img src="https://img.shields.io/badge/-Portfolio-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/pratiksha-g-6468381a9/"><img src="https://img.shields.io/badge/-Pratiksha%20Ghadge-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:ghadgepratiksha23@gmail.com"><img src="https://img.shields.io/badge/-ghadgepratiska23@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
 </p>
-
-
-
-
-
-
-
- 
